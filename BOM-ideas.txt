@@ -1,0 +1,6 @@
+
+
+
+N FET: https://www.tme.eu/cz/en/details/irfb4115pbf/tht-n-channel-transistors/infineon-technologies/ (70 Kc, az 150V, 70A, overkill, velky gate charge,)
+
+Inducnost: https://www.tme.eu/cz/en/details/srp1265a-100m/inductors/bourns/ (SMD, 12x13 mm, 10 uH, 10A)
