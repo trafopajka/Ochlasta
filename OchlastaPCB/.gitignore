@@ -22,6 +22,9 @@ fp-info-cache
 sym-lib-table-bak
 
 
+# LibreOffice tmp
+*.ods#
+
 # OS-specifics
 .DS_Store
 Thumbs.db
