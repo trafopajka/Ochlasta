@@ -1,0 +1,27 @@
+# KiCad 9 project backups and autosaves
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+_autosave-*/
+
+# Temporary files
+*.tmp
+*.tmp.*
+*.swp
+*.swo
+*.lock
+*.lck
+
+# KiCad cache and transient data
+*-cache.lib
+*.kicad_sch-bak
+fp-info-cache
+sym-lib-table-bak
+
+
+# OS-specifics
+.DS_Store
+Thumbs.db

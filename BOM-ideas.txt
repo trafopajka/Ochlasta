@@ -1,6 +1,19 @@
+MCU
+----
+
+I need something with good timers for PWM generation.
+Good bet seems to be STM32 with HRTIM. Lets fisrt try STM32F334R8T6 (it has HRTIM and cheap nucleo board is available)
 
 
 
-N FET: https://www.tme.eu/cz/en/details/irfb4115pbf/tht-n-channel-transistors/infineon-technologies/ (70 Kc, az 150V, 70A, overkill, velky gate charge,)
+Synchronous converter
+----
 
-Inducnost: https://www.tme.eu/cz/en/details/srp1265a-100m/inductors/bourns/ (SMD, 12x13 mm, 10 uH, 10A)
+Power FET: Infineon IRFH7440 - 40V, 11A, RDS(on)=7.5mΩ, Qg=23nC (might work for both high and low sides)
+Gate driver: TI UCC27282
+Inductor: Something like https://www.tme.eu/cz/en/details/srp1265a-100m/inductors/bourns/ (SMD, 12x13 mm, 10 uH, 10A)
+
+
+Current Measurement
+----
+TI INA240 seems nice
