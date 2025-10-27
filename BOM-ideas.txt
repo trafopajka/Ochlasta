@@ -37,3 +37,8 @@ https://www.aliexpress.com/item/4000832671813.html (version 2")
 https://www.aliexpress.com/i/1005008964559903.html (SD card has different pinout, but I believe correct mechanical dravings)
 
 https://goldenmorninglcd.com/tft-display-module/2-inch-240x320-st7789v-gmt020-02/#elementor-toc__heading-anchor-4 (mecahnical drawings)
+
+
+Instrumentation amplifier
+----
+https://jlcpcb.com/partdetail/TexasInstruments-INA333AIDGKR/C19450 (for Pt1000 RTDs)
