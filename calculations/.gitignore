@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+.jupyter/
+profile_default/
+__pycache__/
+
+# Python bytecode / compiled stuff
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Logs and caches
+*.log
+*.tmp
+*.cache
+*.sqlite
+*.db
+
+# Build and dist output
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/

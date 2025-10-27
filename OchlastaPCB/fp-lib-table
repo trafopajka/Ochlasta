@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SnapMagic_downloads")(type "KiCad")(uri "${KIPRJMOD}/SnapMagic_downloads")(options "")(descr ""))
+  (lib (name "OchlastaFootprints")(type "KiCad")(uri "${KIPRJMOD}/CustomComponents/OchlastaFootprints.pretty")(options "")(descr ""))
+)

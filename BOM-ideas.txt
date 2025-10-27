@@ -17,3 +17,23 @@ Inductor: Something like https://www.tme.eu/cz/en/details/srp1265a-100m/inductor
 Current Measurement
 ----
 TI INA240 seems nice
+
+Connectors
+----
+https://www.tme.eu/cz/en/details/xt60pw-m/dc-power-connectors/amass/ XT60 for power
+https://www.tme.eu/cz/en/details/keys3557-2/car-fuseholders/keystone/3557-2/ Fuse holder
+
+
+
+DC DC for MCU power
+L 3.6 uH https://jlcpcb.com/partdetail/179254-FNR4030S3R6MT/C167871
+L 2.2 uH https://jlcpcb.com/partdetail/179130-FNR3015S2R2MT/C167747
+
+
+Display
+----
+https://www.aliexpress.com/item/4000832671813.html (version 2")
+
+https://www.aliexpress.com/i/1005008964559903.html (SD card has different pinout, but I believe correct mechanical dravings)
+
+https://goldenmorninglcd.com/tft-display-module/2-inch-240x320-st7789v-gmt020-02/#elementor-toc__heading-anchor-4 (mecahnical drawings)
