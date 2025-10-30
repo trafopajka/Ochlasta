@@ -3,4 +3,5 @@
   (lib (name "XT60PW-M")(type "KiCad")(uri "${KIPRJMOD}/SnapMagic_downloads/XT60PW-M.kicad_sym")(options "")(descr ""))
   (lib (name "AP64501SP-13")(type "KiCad")(uri "${KIPRJMOD}/SnapMagic_downloads/AP64501SP-13.kicad_sym")(options "")(descr ""))
   (lib (name "OchlastaSymbols")(type "KiCad")(uri "${KIPRJMOD}/CustomComponents/OchlastaSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A4901DGNR")(type "KiCad")(uri "${KIPRJMOD}/SnapMagic_downloads/TPS7A4901DGNR.kicad_sym")(options "")(descr ""))
 )

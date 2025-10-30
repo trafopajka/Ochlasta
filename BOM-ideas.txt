@@ -29,6 +29,10 @@ DC DC for MCU power
 L 3.6 uH https://jlcpcb.com/partdetail/179254-FNR4030S3R6MT/C167871
 L 2.2 uH https://jlcpcb.com/partdetail/179130-FNR3015S2R2MT/C167747
 
+Analog LDO
+----
+https://jlcpcb.com/partdetail/TexasInstruments-TPS7A4901DGNR/C16430
+
 
 Display
 ----
