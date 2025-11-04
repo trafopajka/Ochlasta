@@ -11,7 +11,15 @@ Synchronous converter
 
 Power FET: Infineon IRFH7440 - 40V, 11A, RDS(on)=7.5mΩ, Qg=23nC (might work for both high and low sides)
 Gate driver: TI UCC27282
-Inductor: Something like https://www.tme.eu/cz/en/details/srp1265a-100m/inductors/bourns/ (SMD, 12x13 mm, 10 uH, 10A)
+https://jlcpcb.com/partdetail/InfineonTechnologies-IRFH7440TRPBF/C67862
+
+
+https://jlcpcb.com/partdetail/TexasInstruments-UCC27282DR/C2867844
+Inductor: By calculations I need about 20 uH minimum, preferably more
+For 10 A there are some available 17.8x17 mm package 1770
+Maybe like this
+ https://jlcpcb.com/partdetail/SOREDE-SRYH_1770YF220MT00/C5122901
+
 
 
 Current Measurement
@@ -23,6 +31,14 @@ Connectors
 https://www.tme.eu/cz/en/details/xt60pw-m/dc-power-connectors/amass/ XT60 for power
 https://www.tme.eu/cz/en/details/keys3557-2/car-fuseholders/keystone/3557-2/ Fuse holder
 
+for TEC module output I propose WAGO 236 series
+https://www.gme.cz/v/1499152/wago-236-744-svorkovnice-1pol-roztec-508mm-24a-320v-vstup-45-pruzina
+(or similar)
+
+
+For RTDs:
+https://www.tme.eu/cz/en/details/mc1.5_2-g-3.81/pluggable-terminal-blocks/phoenix-contact/1803277/
+https://www.tme.eu/cz/en/details/mc1.5_2-st-3.81/pluggable-terminal-blocks/phoenix-contact/1803578/
 
 
 DC DC for MCU power
@@ -46,3 +62,6 @@ https://goldenmorninglcd.com/tft-display-module/2-inch-240x320-st7789v-gmt020-02
 Instrumentation amplifier
 ----
 https://jlcpcb.com/partdetail/TexasInstruments-INA333AIDGKR/C19450 (for Pt1000 RTDs)
+
+
+Connectors
