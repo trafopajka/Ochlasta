@@ -21,6 +21,12 @@ Maybe like this
  https://jlcpcb.com/partdetail/SOREDE-SRYH_1770YF220MT00/C5122901
 
 
+Measurement:
+Shunt resistor something like this:
+https://jlcpcb.com/partdetail/Milliohm-HoLLR1206_1W_5mR_1/C2988648
+Amplifier like this:
+https://jlcpcb.com/partdetail/TexasInstruments-INA240A2DR/C2060768
+
 
 Current Measurement
 ----
@@ -59,9 +65,14 @@ https://www.aliexpress.com/i/1005008964559903.html (SD card has different pinout
 https://goldenmorninglcd.com/tft-display-module/2-inch-240x320-st7789v-gmt020-02/#elementor-toc__heading-anchor-4 (mecahnical drawings)
 
 
+buttons:
+
+https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477
+
 Instrumentation amplifier
 ----
 https://jlcpcb.com/partdetail/TexasInstruments-INA333AIDGKR/C19450 (for Pt1000 RTDs)
 
 
-Connectors
+CAN
+https://jlcpcb.com/partdetail/TexasInstruments-SN65HVD230DR/C12084
