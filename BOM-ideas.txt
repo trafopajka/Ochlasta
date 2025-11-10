@@ -65,9 +65,14 @@ https://www.aliexpress.com/i/1005008964559903.html (SD card has different pinout
 https://goldenmorninglcd.com/tft-display-module/2-inch-240x320-st7789v-gmt020-02/#elementor-toc__heading-anchor-4 (mecahnical drawings)
 
 
+Encoder
+https://www.tme.eu/cz/en/details/ec11e12-15p30c-sw/incremental-type-encoders/sr-passives/
+
 buttons:
 
-https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477
+for debug/programming small SMD buttons https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477
+
+for user interface something like this https://www.tme.eu/cz/en/details/tact-69k-f/microswitches-tact/ninigi/
 
 Instrumentation amplifier
 ----
