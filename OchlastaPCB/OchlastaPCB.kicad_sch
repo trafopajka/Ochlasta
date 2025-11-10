@@ -34811,7 +34811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal"
 			(at 506.73 74.93 0)
 			(effects
 				(font
@@ -39164,7 +39164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Availability" "Not in stock"
+		(property "Availability" ""
 			(at 39.37 59.69 0)
 			(effects
 				(font
